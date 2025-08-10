@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\BST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78360E80-B981-4AED-B963-5A68EE231B96}|BST\\BST.vcxproj|D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\BST\\BST\\BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78360E80-B981-4AED-B963-5A68EE231B96}|BST\\BST.vcxproj|solutionrelative:BST\\BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BST.cpp",
+              "DocumentMoniker": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\BST\\BST\\BST.cpp",
+              "RelativeDocumentMoniker": "BST\\BST.cpp",
+              "ToolTip": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\BST\\BST\\BST.cpp",
+              "RelativeToolTip": "BST\\BST.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-10T12:25:25.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

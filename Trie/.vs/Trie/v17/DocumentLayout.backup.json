@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\Trie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF47D50-B002-4CA3-A5F8-4CEA7F11951F}|Trie\\Trie.vcxproj|D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\Trie\\Trie\\Trie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EF47D50-B002-4CA3-A5F8-4CEA7F11951F}|Trie\\Trie.vcxproj|solutionrelative:Trie\\Trie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trie.cpp",
+              "DocumentMoniker": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\Trie\\Trie\\Trie.cpp",
+              "RelativeDocumentMoniker": "Trie\\Trie.cpp",
+              "ToolTip": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\Trie\\Trie\\Trie.cpp",
+              "RelativeToolTip": "Trie\\Trie.cpp",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAswJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-10T13:15:28.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

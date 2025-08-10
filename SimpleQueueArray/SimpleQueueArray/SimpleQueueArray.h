@@ -1,0 +1,74 @@
+#pragma once
+#include <iostream>
+using namespace std;
+
+// ????? ??????
+class SimpleQueueArray {
+private:
+    int* arr;       // ?????? ???????? ???????????
+    int capacity;   // ????? ?????? ???????
+    int front;      // ???? ??? ????
+    int rear;       // ???? ??? ????
+    int count;      // ??? ??????? ???????
+
+public:
+    // Constructor
+    SimpleQueueArray(int size) {
+        arr = new int[size];
+        capacity = size;
+        front = 0;
+        rear = -1;
+        count = 0;
+    }
+
+    // Destructor
+    ~SimpleQueueArray() {
+        delete[] arr;
+    }
+
+    // ????? ????
+    void enqueue(int item) {
+        if (isFull()) {
+            cout << "Queue is full! Cannot add " << item << endl;
+            return;
+        }
+        rear++;
+        arr[rear] = item;
+        count++;
+    }
+
+    // ??? ????
+    void dequeue() {
+        if (isEmpty()) {
+            cout << "Queue is empty! Cannot remove.\n";
+            return;
+        }
+        cout << "Removed: " << arr[front] << endl;
+        front++;
+        count--;
+    }
+
+    // ?????? ??? ??????? ????
+    bool isEmpty() {
+        return count == 0;
+    }
+
+    // ?????? ??? ??????? ?????
+    bool isFull() {
+        return count == capacity;
+    }
+
+    // ??? ???????
+    void display() {
+        if (isEmpty()) {
+            cout << "Queue is empty!\n";
+            return;
+        }
+        cout << "Queue elements: ";
+        for (int i = front; i <= rear; i++) {
+            cout << arr[i] << " ";
+        }
+        cout << endl;
+    }
+};
+

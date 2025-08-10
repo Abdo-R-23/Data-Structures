@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\GeneralTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1E1A14-E644-4086-8FF4-2DC79B070A12}|GeneralTree\\GeneralTree.vcxproj|D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\GeneralTree\\GeneralTree\\GeneralTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D1E1A14-E644-4086-8FF4-2DC79B070A12}|GeneralTree\\GeneralTree.vcxproj|solutionrelative:GeneralTree\\GeneralTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneralTree.cpp",
+              "DocumentMoniker": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\GeneralTree\\GeneralTree\\GeneralTree.cpp",
+              "RelativeDocumentMoniker": "GeneralTree\\GeneralTree.cpp",
+              "ToolTip": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\GeneralTree\\GeneralTree\\GeneralTree.cpp",
+              "RelativeToolTip": "GeneralTree\\GeneralTree.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-10T11:57:18.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\ArrayList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23480E52-2BD4-4443-B319-90E1E7881412}|ArrayList\\ArrayList.vcxproj|D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\ArrayList\\ArrayList\\Arratlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23480E52-2BD4-4443-B319-90E1E7881412}|ArrayList\\ArrayList.vcxproj|solutionrelative:ArrayList\\Arratlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23480E52-2BD4-4443-B319-90E1E7881412}|ArrayList\\ArrayList.vcxproj|D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\ArrayList\\ArrayList\\ArrayList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23480E52-2BD4-4443-B319-90E1E7881412}|ArrayList\\ArrayList.vcxproj|solutionrelative:ArrayList\\ArrayList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arratlist.cpp",
+              "DocumentMoniker": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\ArrayList\\ArrayList\\Arratlist.cpp",
+              "RelativeDocumentMoniker": "ArrayList\\Arratlist.cpp",
+              "ToolTip": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\ArrayList\\ArrayList\\Arratlist.cpp",
+              "RelativeToolTip": "ArrayList\\Arratlist.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-09T10:51:09.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayList.h",
+              "DocumentMoniker": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\ArrayList\\ArrayList\\ArrayList.h",
+              "RelativeDocumentMoniker": "ArrayList\\ArrayList.h",
+              "ToolTip": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\ArrayList\\ArrayList\\ArrayList.h",
+              "RelativeToolTip": "ArrayList\\ArrayList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-09T10:48:53.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  CircularQueue.cpp
+D:\cs\my\C++ tasks\Data Structures\CircularQueueArray\CircularQueueArray\CircularQueue.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CircularQueueArray.vcxproj -> D:\cs\my\C++ tasks\Data Structures\CircularQueueArray\x64\Debug\CircularQueueArray.exe

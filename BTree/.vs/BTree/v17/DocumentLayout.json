@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\BTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2F1F0D-4C42-4F2A-BD65-1D983729611E}|BTree\\BTree.vcxproj|D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\BTree\\BTree\\BTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC2F1F0D-4C42-4F2A-BD65-1D983729611E}|BTree\\BTree.vcxproj|solutionrelative:BTree\\BTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BTree.cpp",
+              "DocumentMoniker": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\BTree\\BTree\\BTree.cpp",
+              "RelativeDocumentMoniker": "BTree\\BTree.cpp",
+              "ToolTip": "D:\\cs\\my\\C\u002B\u002B tasks\\Data Structures\\BTree\\BTree\\BTree.cpp",
+              "RelativeToolTip": "BTree\\BTree.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-10T13:39:10.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

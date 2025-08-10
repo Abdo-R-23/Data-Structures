@@ -1,0 +1,3 @@
+﻿  SimpleQueueLinkedList.cpp
+D:\cs\my\C++ tasks\Data Structures\SimpleQueueLinkedList\SimpleQueueLinkedList\SimpleQueueLinkedList.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SimpleQueueLinkedList.vcxproj -> D:\cs\my\C++ tasks\Data Structures\SimpleQueueLinkedList\x64\Debug\SimpleQueueLinkedList.exe
